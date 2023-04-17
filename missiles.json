@@ -1,0 +1,376 @@
+[
+    {
+        "id": 5369,
+        "name": "spear",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                970,
+                963,
+                964,
+                969,
+                0,
+                965,
+                968,
+                967,
+                966
+            ]
+        }
+    },
+    {
+        "id": 5370,
+        "name": "bolt",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                979,
+                972,
+                973,
+                978,
+                0,
+                974,
+                977,
+                976,
+                975
+            ]
+        }
+    },
+    {
+        "id": 5371,
+        "name": "arrow",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                987,
+                980,
+                981,
+                986,
+                0,
+                982,
+                985,
+                984,
+                983
+            ]
+        }
+    },
+    {
+        "id": 5372,
+        "name": "fire",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                1830,
+                1831,
+                1832,
+                1833,
+                0,
+                1834,
+                1835,
+                1836,
+                1837
+            ]
+        },
+        "Flags": [
+            "Light"
+        ],
+        "Attributes": {
+            "Brightness": 5,
+            "LightColor": 206
+        }
+    },
+    {
+        "id": 5373,
+        "name": "energy",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                1829,
+                1829,
+                1829,
+                1829,
+                0,
+                1829,
+                1829,
+                1829,
+                1829
+            ]
+        },
+        "Flags": [
+            "Light"
+        ],
+        "Attributes": {
+            "Brightness": 5,
+            "LightColor": 65
+        }
+    },
+    {
+        "id": 5374,
+        "name": "poisonarrow",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                1846,
+                1847,
+                1848,
+                1853,
+                0,
+                1849,
+                1852,
+                1851,
+                1850
+            ]
+        }
+    },
+    {
+        "id": 5375,
+        "name": "burstarrow",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                1854,
+                1855,
+                1856,
+                1861,
+                0,
+                1857,
+                1860,
+                1859,
+                1858
+            ]
+        }
+    },
+    {
+        "id": 5376,
+        "name": "throwingstar",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                1894,
+                1894,
+                1894,
+                1894,
+                0,
+                1894,
+                1894,
+                1894,
+                1894
+            ]
+        }
+    },
+    {
+        "id": 5377,
+        "name": "throwingknife",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                2876,
+                2873,
+                2874,
+                2879,
+                0,
+                2875,
+                2880,
+                2877,
+                2878
+            ]
+        }
+    },
+    {
+        "id": 5378,
+        "name": "smallstone",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                3187,
+                3187,
+                3187,
+                3187,
+                0,
+                3187,
+                3187,
+                3187,
+                3187
+            ]
+        }
+    },
+    {
+        "id": 5379,
+        "name": "death",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                3252,
+                3252,
+                3252,
+                3252,
+                0,
+                3252,
+                3252,
+                3252,
+                3252
+            ]
+        }
+    },
+    {
+        "id": 5380,
+        "name": "largerock",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                1199,
+                1199,
+                1199,
+                1199,
+                0,
+                1199,
+                1199,
+                1199,
+                1199
+            ]
+        }
+    },
+    {
+        "id": 5381,
+        "name": "snowball",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                3331,
+                3331,
+                3331,
+                3331,
+                0,
+                3331,
+                3331,
+                3331,
+                3331
+            ]
+        }
+    },
+    {
+        "id": 5382,
+        "name": "powerbolt",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                3346,
+                3345,
+                3352,
+                3347,
+                0,
+                3351,
+                3348,
+                3349,
+                3350
+            ]
+        }
+    },
+    {
+        "id": 5383,
+        "name": "poison",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 3,
+            "divY": 3,
+            "divZ": 1,
+            "animations": 1,
+            "ids": [
+                5301,
+                5300,
+                5307,
+                5302,
+                0,
+                5306,
+                5303,
+                5304,
+                5305
+            ]
+        }
+    }
+]

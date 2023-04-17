@@ -1,0 +1,77 @@
+[
+    {
+        "map": 0,
+        "hex": "#000000",
+        "name": "BLACK"
+    },
+    {
+        "map": 12,
+        "hex": "#006600",
+        "name": "DARKGREEN"
+    },
+    {
+        "map": 24,
+        "hex": "#00CC00",
+        "name": "LIGHTGREEN"
+    },
+    {
+        "map": 30,
+        "hex": "#99FF66",
+        "name": "GREEN"
+    },
+    {
+        "map": 40,
+        "hex": "#336699",
+        "name": "BLUE"
+    },
+    {
+        "map": 86,
+        "hex": "#666666",
+        "name": "DARKGRAY"
+    },
+    {
+        "map": 114,
+        "hex": "#993300",
+        "name": "DARKBROWN"
+    },
+    {
+        "map": 121,
+        "hex": "#996633",
+        "name": "BROWN"
+    },
+    {
+        "map": 129,
+        "hex": "#999999",
+        "name": "GRAY"
+    },
+    {
+        "map": 179,
+        "hex": "#CCFFFF",
+        "name": "LIGHTBLUE"
+    },
+    {
+        "map": 186,
+        "hex": "#FF3300",
+        "name": "RED"
+    },
+    {
+        "map": 192,
+        "hex": "#FF6600",
+        "name": "ORANGE"
+    },
+    {
+        "map": 207,
+        "hex": "#FFCC99",
+        "name": "BEIGE"
+    },
+    {
+        "map": 210,
+        "hex": "#FFFF00",
+        "name": "YELLOW"
+    },
+    {
+        "map": 215,
+        "hex": "#FFFFFF",
+        "name": "WHITE"
+    }
+]

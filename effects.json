@@ -1,0 +1,579 @@
+[
+    {
+        "id": 5344,
+        "name": "redspark",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 4,
+            "ids": [
+                363,
+                364,
+                365,
+                366
+            ]
+        }
+    },
+    {
+        "id": 5345,
+        "name": "bluebubble",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 4,
+            "ids": [
+                335,
+                336,
+                337,
+                338
+            ]
+        }
+    },
+    {
+        "id": 5346,
+        "name": "poff",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 4,
+            "ids": [
+                920,
+                921,
+                922,
+                923
+            ]
+        }
+    },
+    {
+        "id": 5347,
+        "name": "yellowspark",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 3,
+            "ids": [
+                924,
+                925,
+                926
+            ]
+        }
+    },
+    {
+        "id": 5348,
+        "name": "explosionarea",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 8,
+            "ids": [
+                1352,
+                1353,
+                1354,
+                1355,
+                1356,
+                1357,
+                1358,
+                1359
+            ]
+        },
+        "Flags": [
+            "Light"
+        ],
+        "Attributes": {
+            "Brightness": 4,
+            "LightColor": 208
+        }
+    },
+    {
+        "id": 5349,
+        "name": "explosion",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 6,
+            "ids": [
+                1360,
+                1361,
+                1362,
+                1363,
+                1364,
+                1365
+            ]
+        },
+        "Flags": [
+            "Light"
+        ],
+        "Attributes": {
+            "Brightness": 5,
+            "LightColor": 208
+        }
+    },
+    {
+        "id": 5350,
+        "name": "firearea",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 8,
+            "ids": [
+                1366,
+                1367,
+                1368,
+                1369,
+                1370,
+                1371,
+                1372,
+                1373
+            ]
+        },
+        "Flags": [
+            "Light"
+        ],
+        "Attributes": {
+            "Brightness": 6,
+            "LightColor": 208
+        }
+    },
+    {
+        "id": 5351,
+        "name": "yellowbubble",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 7,
+            "ids": [
+                1374,
+                1375,
+                1376,
+                1377,
+                1378,
+                1379,
+                1380
+            ]
+        }
+    },
+    {
+        "id": 5352,
+        "name": "greenbubble",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 7,
+            "ids": [
+                1381,
+                1382,
+                1383,
+                1384,
+                1385,
+                1386,
+                1387
+            ]
+        }
+    },
+    {
+        "id": 5353,
+        "name": "blackspark",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 8,
+            "ids": [
+                1388,
+                1389,
+                1390,
+                1391,
+                1392,
+                1393,
+                1394,
+                1395
+            ]
+        }
+    },
+    {
+        "id": 5354,
+        "name": "teleport",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 8,
+            "ids": [
+                1396,
+                1397,
+                1398,
+                1399,
+                1400,
+                1401,
+                1402,
+                1403
+            ]
+        },
+        "Flags": [
+            "Light"
+        ],
+        "Attributes": {
+            "Brightness": 3,
+            "LightColor": 173
+        }
+    },
+    {
+        "id": 5355,
+        "name": "energy",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 4,
+            "ids": [
+                330,
+                331,
+                330,
+                331
+            ]
+        }
+    },
+    {
+        "id": 5356,
+        "name": "blueshimmer",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 5,
+            "ids": [
+                1499,
+                1500,
+                1501,
+                1502,
+                1503
+            ]
+        }
+    },
+    {
+        "id": 5357,
+        "name": "redshrimmer",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 5,
+            "ids": [
+                1504,
+                1505,
+                1506,
+                1507,
+                1508
+            ]
+        }
+    },
+    {
+        "id": 5358,
+        "name": "greenshrimmer",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 5,
+            "ids": [
+                1509,
+                1510,
+                1511,
+                1512,
+                1513
+            ]
+        }
+    },
+    {
+        "id": 5359,
+        "name": "fire",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 5,
+            "ids": [
+                496,
+                495,
+                492,
+                493,
+                495
+            ]
+        },
+        "Flags": [
+            "Light"
+        ],
+        "Attributes": {
+            "Brightness": 4,
+            "LightColor": 215
+        }
+    },
+    {
+        "id": 5360,
+        "name": "greenspark",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 4,
+            "ids": [
+                2132,
+                2133,
+                2134,
+                2135
+            ]
+        }
+    },
+    {
+        "id": 5361,
+        "name": "mortarea",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 8,
+            "ids": [
+                3244,
+                3245,
+                3246,
+                3247,
+                3248,
+                3249,
+                3250,
+                3251
+            ]
+        }
+    },
+    {
+        "id": 5362,
+        "name": "greennote",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 10,
+            "ids": [
+                3393,
+                3393,
+                3394,
+                3394,
+                3395,
+                3395,
+                3396,
+                3396,
+                3397,
+                3397
+            ]
+        }
+    },
+    {
+        "id": 5363,
+        "name": "rednote",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 10,
+            "ids": [
+                3299,
+                3299,
+                3300,
+                3300,
+                3301,
+                3301,
+                3302,
+                3302,
+                3303,
+                3303
+            ]
+        }
+    },
+    {
+        "id": 5364,
+        "name": "poison",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 4,
+            "ids": [
+                5281,
+                5283,
+                5293,
+                5295
+            ]
+        }
+    },
+    {
+        "id": 5365,
+        "name": "yellownote",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 10,
+            "ids": [
+                6003,
+                6003,
+                6004,
+                6004,
+                6005,
+                6005,
+                6006,
+                6006,
+                6007,
+                6007
+            ]
+        }
+    },
+    {
+        "id": 5366,
+        "name": "purplenote",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 10,
+            "ids": [
+                6008,
+                6008,
+                6009,
+                6009,
+                6010,
+                6010,
+                6011,
+                6011,
+                6012,
+                6012
+            ]
+        }
+    },
+    {
+        "id": 5367,
+        "name": "bluenote",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 10,
+            "ids": [
+                6013,
+                6013,
+                6014,
+                6014,
+                6015,
+                6015,
+                6016,
+                6016,
+                6017,
+                6017
+            ]
+        }
+    },
+    {
+        "id": 5368,
+        "name": "whitenote",
+        "sprite": {
+            "width": 1,
+            "height": 1,
+            "blendFrames": 1,
+            "divX": 1,
+            "divY": 1,
+            "divZ": 1,
+            "animations": 10,
+            "ids": [
+                6018,
+                6018,
+                6019,
+                6019,
+                6020,
+                6020,
+                6021,
+                6021,
+                6022,
+                6022
+            ]
+        }
+    }
+]
